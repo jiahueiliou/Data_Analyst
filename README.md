@@ -1,7 +1,6 @@
 # FetchRewards_Data_Analyst
----
 
-### Data Exploration
+## Data Exploration
 This repository includes three datasets under investigation:
 
 - [Users Dataset](Data_Exploration_Users.ipynb)
@@ -11,7 +10,7 @@ This repository includes three datasets under investigation:
 I have summarized the data quality issues and identified fields that require further clarification at the bottom of each file.
 
 ---
-### SQL Queries (Using SQLite)
+## SQL Queries (Using SQLite)
 
 The following questions have been addressed using SQL queries:
 
@@ -22,6 +21,6 @@ The following questions have been addressed using SQL queries:
 For the SQL queries, refer to the [SQL Query document](SQL_Query.pdf) for detailed explanations.
 
 ---
-### Communication with Stakeholders
+## Communication with Stakeholders
 
 For a summary of key findings and next steps, refer to the [Email](Email.pdf) that outlines communication with stakeholders.
