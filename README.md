@@ -2,9 +2,10 @@
 
 ### Data Exploration
 This repository includes three datasets under investigation:
-[Users Dataset](Data_Exploration_Users.ipynb)
-[Products Dataset](Data_Exploration_Products.ipynb)
-[Transactions Dataset](Data_Exploration_Transactions.ipynb)
+
+- [Users Dataset](Data_Exploration_Users.ipynb)
+- [Products Dataset](Data_Exploration_Products.ipynb)
+- [Transactions Dataset](Data_Exploration_Transactions.ipynb)
 
 I have summarized the data quality issues and identified fields that require further clarification at the bottom of each file.
 
@@ -16,7 +17,7 @@ The following questions have been addressed using SQL queries:
 - What is the percentage of sales in the Health & Wellness category by generation?
 - Which brand leads in the Dips & Salsa category?
 
-For the SQL queries, refer to the [SQL Query document](SQL Query.pdf) for detailed explanations.
+For the SQL queries, refer to the [SQL Query document](SQL_Query.pdf) for detailed explanations.
 
 ### Communication with Stakeholders
 
