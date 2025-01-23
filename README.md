@@ -1,4 +1,4 @@
-# FetchRewards_Data_Analyst
+# Data_Analyst
 
 ## Data Exploration
 This repository includes three datasets under investigation:
